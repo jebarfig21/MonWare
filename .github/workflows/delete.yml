@@ -1,4 +1,4 @@
-name: Snyk Security
+delete.ymname: Snyk Security
 on:
   push:
     branches: ["main" ]
